@@ -84,7 +84,7 @@
 				<input type="hidden" id="action" name="action" value="verify" />
 				<input type="hidden" id="envelope" name="envelope" value="<? echo $envelope; ?>" />
 				<input type="text" id="password" name="password" placeholder="Type password" />
-				<input type="submit" />
+				<input type="submit" id="submit" />
 			</form>
 		</section>
 		<?
