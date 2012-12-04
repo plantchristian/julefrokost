@@ -17,7 +17,7 @@
 		<ul>
 			<li>each present must cost no more than 125 kr</li>
 			<li>each present cannot be drink or food</li>
-			<li>each present must be at least partly blue</li>
+			<li>each present must be at least partly yellow</li>
 			<li>each present must be individually gift wrapped</li>
 		</ul>
 	</li>

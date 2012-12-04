@@ -26,7 +26,7 @@
 			<li>What does Jacob never eat?</li>
 			<li>What was Rasmus' former surname?</li>
 			<li>For how long did William have his bicycle in Copenhagen?</li>
-		</ol>>";
+		</ol>";
 	
 	$objectives = "<h3>Objectives:</h3><ol>
 	<li>Go to The Moose (Sværtegade 5)</li>
