@@ -8,7 +8,7 @@
 	$pwds = array( 
 					"env1" => array( 
 								"last christmas" => "opgaver/team1_assignment_2.php", 
-								"skov2hest6" => "opgaver/team2_assignment_2.php", 
+								"white christmas" => "opgaver/team2_assignment_2.php", 
 								"jingle bells" => "opgaver/team3_assignment_2.php"
 								 ),
 					"env2" => array( 
