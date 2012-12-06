@@ -9,7 +9,7 @@
 	
     
     $headline = "<h1>Assignment 2</h1>";
-	$body = "<p>In envelope 2 you find a tipskupon with the answers for 15 questions - here below you find the questions to match the answers";
+	$body = "<p>In envelope 2 you find a <i>tipskupon</i> with the answers for 15 questions - here below you find the questions to match the answers";
 	
 	$options = "
 		<ol>
@@ -30,8 +30,8 @@
 	
 	$objectives = "<h3>Objectives:</h3><ol>
 	<li>Go to The Moose (Sværtegade 5)</li>
-	<li>Fill in the tipskupon - each correct answer will be awarded 1 point</li>
-	<li>Take a photo of the whole team, your mascot elf and the filled in form in jouyous gathering at The Moose and send it to 61690609</li>
+	<li>Fill in the <i>tipskupon</i> - each correct answer will be awarded 1 point</li>
+	<li>Take a photo of the whole team, your mascot elf and the filled in <i>tipskupon</i> in jouyous gathering at The Moose and send it to 61690609</li>
 	</ol>";
 	
 	
