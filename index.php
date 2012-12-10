@@ -12,9 +12,9 @@
 								"jingle bells" => "opgaver/team3_assignment_2.php"
 								 ),
 					"env2" => array( 
-								"pade6spar2" => "opgaver/team1_assignment_3.php", 
-								"felt7logo8" => "opgaver/team2_assignment_3.php", 
-								"rend2kile1" => "opgaver/team3_assignment_3.php"
+								"kors6gran2" => "opgaver/team1_assignment_3.php", 
+								"fest7kage8" => "opgaver/team2_assignment_3.php", 
+								"sild4laks1" => "opgaver/team3_assignment_3.php"
 								)
 				);
 	if($_POST){
